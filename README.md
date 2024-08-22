@@ -42,9 +42,7 @@ To start playing the Ferris Wheel Game, simply run the game on your platform and
 
 ## SS
 
-1. **Home UI:**
 ![Ferris Wheel Game](ss/home.PNG)
-2. **Rules:**
 ![Ferris Wheel Game](ss/home.PNG)
 
 ## Contributing
